@@ -1,0 +1,16 @@
+2fddab0f60c0b43e329ea2c7c8c95fc6 *DESCRIPTION
+d763b0de2605453532b296fea4345828 *NAMESPACE
+4a427ee88a7a4ad1d499f28f6fb64d66 *R/Globals.R
+2f013293d8846fa71da5043b0ea8ead0 *R/data.R
+355aa96996fdce96a0e9ffbaf0b8b5fc *R/dataGeneration.R
+d0ae61347a3b7c8ce988555711a8b74e *R/extra.R
+eae831231e43a87e201fee90398063a5 *R/impute.R
+8e023cffc1bc901be6d0dc0f80c9f169 *data/data.example.rda
+b1d707bbcad517800fcde6f9127dd575 *man/biokNN.impute.Rd
+406f9af7a3f336d550e45e9523d155ac *man/biokNN.impute.mi.Rd
+be7511d78f4a6bfbce06ae34023f0db3 *man/calibrate.Rd
+60e20bd231a2aceb226e111b19b890a9 *man/create.multilevel.Rd
+93b7ffc42f223bfda664aee981446ea1 *man/data.example.Rd
+5ea6a8c0b59a6f415ab06ab19fe6ac1e *man/missing.plot.Rd
+52962f3bf4b331439b5551b5ee12853d *man/pattern.plot.Rd
+5f07ecd05bf504ae778949d82f782450 *man/target.boxplot.Rd
